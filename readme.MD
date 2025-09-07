@@ -26,7 +26,7 @@ The uploaded files can then be deployed seamlessly to **GitHub Pages** or other 
 ---
 
 
-##📦 Prerequisites
+## 📦 Prerequisites
 
 Before using this project, make sure you have:
 
@@ -36,7 +36,7 @@ Before using this project, make sure you have:
 
 ---
 
-##🚀 Installation & Setup
+## 🚀 Installation & Setup
 
 1. Clone Repository
 
@@ -81,7 +81,7 @@ The Website will run at http://localhost:3000
 
 ---
 
-##🗂️ Project Structure
+## 🗂️ Project Structure
 
 ```
 website-uploader/
@@ -103,7 +103,7 @@ website-uploader/
 
 ---
 
-###📝 License
+### 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
