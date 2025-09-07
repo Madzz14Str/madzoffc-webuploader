@@ -1,0 +1,32 @@
+{
+  "name": "webuploudergh",
+  "version": "1.0.0",
+  "description": "Website Uplouder Create by MadzOFFC",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madzz14Str/madzoffc-webuploader.git"
+  },
+  "keywords": [
+    "MadzOFFC",
+    "Website",
+    "uploader",
+    "Website Uploader"
+  ],
+  {
+  "author": {
+    "name": "MadzOFFC",
+    "email": "madzoffcjs@sigma.com",
+    "url": "https://github.com/Madzz14Str"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Madzz14Str/madzoffc-webuploader/issues"
+  },
+  "homepage": "https://github.com/Madzz14Str/madzoffc-webuploader#readme"
+}
